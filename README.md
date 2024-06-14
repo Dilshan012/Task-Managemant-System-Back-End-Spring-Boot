@@ -1,5 +1,12 @@
 # Task-Managemant-System-Spring-Boot-Back-End
  
+ ## Technologies Used
+  - Spring Boot
+  - Spring Security
+  - Spring Data JPA
+  - JWT
+  - MySQL (or H2 Database)
+
 ## Installation and Setup
 
 ## Prerequisites
