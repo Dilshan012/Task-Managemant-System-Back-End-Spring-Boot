@@ -17,12 +17,13 @@ public class ReqRes {
     private String message;
     private String token;
     private String refreshToken;
-    private String expirartionTime;
+    private String expirationTime;
     private String name;
     private String city;
     private String role;
     private String email;
     private String password;
-    private String ourUsers;
+    private OurUsers ourUsers;
     private List<OurUsers> ourUsersList;
+
 }

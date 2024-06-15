@@ -1,10 +1,10 @@
 package com.fullstackapp.taskmanagemantsystem.service;
 
+
 import com.fullstackapp.taskmanagemantsystem.config.JWTAuthFilter;
 import com.fullstackapp.taskmanagemantsystem.dto.ReqRes;
 import com.fullstackapp.taskmanagemantsystem.entity.OurUsers;
 import com.fullstackapp.taskmanagemantsystem.repository.UsersRepo;
-import com.fullstackapp.taskmanagemantsystem.utils.JWTUtils;
 import io.jsonwebtoken.Jwts;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
